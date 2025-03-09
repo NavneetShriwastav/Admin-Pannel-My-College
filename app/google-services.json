@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "742534713666",
+    "firebase_url": "https://classup-8f63c-default-rtdb.firebaseio.com",
+    "project_id": "classup-8f63c",
+    "storage_bucket": "classup-8f63c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742534713666:android:381715e2445519c498b8db",
+        "android_client_info": {
+          "package_name": "com.example.classup.classup.classup.mycollege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAStSwt-pjSMSwc0B4-ImX2h8gvcoIDho4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742534713666:android:7d9f61b17a1b01fc98b8db",
+        "android_client_info": {
+          "package_name": "com.example.classup.navneetCS0958"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAStSwt-pjSMSwc0B4-ImX2h8gvcoIDho4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
