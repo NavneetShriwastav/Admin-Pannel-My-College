@@ -68,5 +68,9 @@ For any questions or further information, feel free to contact me at [navneetshr
 
 ---
 
+Please Click below for User Pannel:
+
+https://github.com/NavneetShriwastav/User-Pannel-My-College
+
 Thank you for taking the time to explore **My College - Admin Panel**. Your feedback and contributions are highly appreciated!
 
